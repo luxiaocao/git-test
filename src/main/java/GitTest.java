@@ -4,6 +4,6 @@ public class GitTest {
         System.out.println("hello git2");
         System.out.println("hello git3");
         System.out.println("dev -hello git4");
-
+        System.out.println("conflict");
     }
 }
