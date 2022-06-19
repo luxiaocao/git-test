@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("dev -hello git4");
         System.out.println("conflict");
         System.out.println("dev -hello git5");
+        System.out.println("push test");
     }
 }
